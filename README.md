@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SenithVijayantha&theme=radical&border_radius=4.2" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SenithVijayantha&theme=radical&border_radius=4.2" alt="GitHub Streak">
 </p>
 
 <br>
