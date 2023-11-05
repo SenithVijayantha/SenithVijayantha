@@ -21,6 +21,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=SenithVijayantha&show_icons=true&theme=radical&layout=donut" alt="GitHub Stats">
 </p>
 
+<p align="center">
+  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SenithVijayantha&theme=radical&border_radius=4.2" alt="GitHub Streak">
+</p>
+
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
