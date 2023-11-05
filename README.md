@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenithVijayantha&show_icons=true&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenithVijayantha&show_icons=true&theme=radical&layout=donut" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SenithVijayanta&show_icons=true&theme=radical&layout=donut" alt="GitHub Stats">
 </p>
 
 <p align="center">
