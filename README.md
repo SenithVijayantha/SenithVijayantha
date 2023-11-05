@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 <br>
 
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenithVijayantha&show_icons=true&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <br>
 
+<div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/SenithSV" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/twitter/twitter-original.svg" alt="" height="30" width="40" /></a>
@@ -28,7 +31,10 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/master_senith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SenithVijayantha/SenithVijayantha/51b90a9834081cf801386de284fdf12811aef4bb/icons8-instagram.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
+</div>
 
 <br>
 
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=SenithVijayantha&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
