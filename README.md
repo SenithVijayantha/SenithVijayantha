@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://github.com/SenithVijayantha/SenithVijayantha/blob/main/banner.png?raw=true)](https://github.com/SenithVijayantha)
+[![MasterHead](https://github.com/SenithVijayantha/SenithVijayantha/blob/main/banner%20(1).png?raw=true)](https://github.com/SenithVijayantha)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenithVijayantha&show_icons=true&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
