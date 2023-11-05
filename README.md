@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SenithVijayantha&theme=radical&border_radius=4.2" alt="GitHub Streak">
 </p>
 
-<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/SenithSV" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/twitter/twitter-original.svg" alt="" height="30" width="40" /></a>
@@ -34,7 +33,6 @@ Here are some ideas to get you started:
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
 
-<br>
 <h3 align="center">Languages I use:</h3>
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/SenithVijayantha/SenithVijayantha/9c0f9e6cf55396740563d735b395a45ac968cf69/icons8-c%2B%2B.svg" alt="" height="30" width="40" /></a>
