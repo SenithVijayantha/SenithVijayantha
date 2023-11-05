@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <!--[![MasterHead](https://github.com/SenithVijayantha/SenithVijayantha/blob/main/banner%20(1).png?raw=true)](https://github.com/SenithVijayantha)-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenithVijayantha&show_icons=true&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenithVijayantha&show_icons=true&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SenithVijayantha&show_icons=true&theme=radical&layout=donut" alt="GitHub Stats">
+</p>
 
 <br>
 <h3 align="center">Connect with me:</h3>
