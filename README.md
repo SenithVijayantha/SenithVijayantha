@@ -9,7 +9,7 @@
 <br />
 
 <a href="https://github.com/SenithVijayantha"><img src="https://img.shields.io/badge/GitHub-SenithVijayantha-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="https://www.linkedin.com/in/senith-vijayantha-380974260"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 
 </div>
 
@@ -140,4 +140,4 @@ LearnHouse is an open-source learning platform with a Next.js frontend and a Fas
 I'm happy to talk about software engineering, web development, or a project you're working on.
 
 <a href="https://github.com/SenithVijayantha"><img src="https://img.shields.io/badge/GitHub-SenithVijayantha-181717?style=flat-square&logo=github&logoColor=white" alt="Visit GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/senith-vijayantha-380974260"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
